@@ -1,0 +1,3 @@
+BOT1                K(Trefl) K(Kier)                                            8  
+BOT2                A(Karo) K(Karo)                                             15 
+BOT3                A(Trefl) 4(Pik)                                             15 

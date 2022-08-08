@@ -1,0 +1,4 @@
+qwer                Q(Kier) A(Trefl) 5(Kier)                                    19 
+asdf                6(Pik) K(Kier) 9(Trefl)                                     19 
+BOT1                Q(Trefl) K(Trefl) Q(Karo) Q(Pik)                            13 
+BOT2                A(Karo) 7(Trefl)                                            18 

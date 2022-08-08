@@ -1,0 +1,7 @@
+﻿  Bot.cpp
+  Casino.cpp
+  Player.cpp
+  Source.cpp
+C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\PwCpp\Project2\Project2\Source.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> C:\Users\d7ag0\OneDrive\Dokumenty\GitHub\PwCpp\Project2\x64\Debug\Project2.exe
